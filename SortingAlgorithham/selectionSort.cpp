@@ -1,6 +1,6 @@
 #include<iostream>
 using  namespace std;
 int main (){
-    string name ="kajal chamain";
+    string name ="name";
     cout<<name; 
 }
